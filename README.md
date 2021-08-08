@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 - 👋 My name is Zaelani
-- 👀 Have an interest in data science and machine learning. 
-- 📫 You can see my profile at [LinkedIn](https://www.linkedin.com/in/mohamad-zaelani-1822691ba)
+- 👨‍💻 Have an interest in data science and machine learning. 
+- 👨‍⚕️ You can see my profile at [LinkedIn](https://www.linkedin.com/in/mohamad-zaelani-1822691ba)
 - 🌐 Visit my blog [SegalaHal.com](https://segalahal.com)
+- ⚡ TensorFlow Developer Certificate Holder [https://www.credential.net/ea5df355-af6c-48e3-b93a-33267254cc5c](See credential)
+
 <!--
 **zaelani23/zaelani23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
