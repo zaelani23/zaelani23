@@ -3,7 +3,6 @@
 - 👨‍💻 Have an interest in data science, machine learning, mobile and web development.
 - ⚡ TensorFlow Developer Certificate Holder. [See credential](https://www.credential.net/ea5df355-af6c-48e3-b93a-33267254cc5c)
 - 👨‍⚕️ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohamadzaelani)
-- 🌐 Visit my blog [SegalaHal.com](https://segalahal.com)
 - 📫 How to reach me: mohamadzaelani09@gmail.com
 
 ### Github Statistic
